@@ -22,7 +22,7 @@ A Web application which brings the treatment from the world's best Doctors to yo
 
 - Fork and Clone the repo using
 ```
-git clone https://github.com/khannakshat7/virtual-hospital.git
+https://github.com/CodesbyUnnati/Virtual_Hospital.git
 cd virtual-hospital
 ```
 - Install dependencies using
